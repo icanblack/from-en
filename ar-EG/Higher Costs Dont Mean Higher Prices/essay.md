@@ -12,7 +12,7 @@ The problem with the argument is that it relies on the simple equilibrium analys
 
 Also, in a state of equilibrium costs perfectly reflect social opportunity costs, and “perfect” competition brings price and cost together so that no one is able to make economic profits. In other words, there is no difference between price and cost. There is, consequently, no reason to in this theory distinguish between them temporally or causally — they appear to be determined instantaneously and accurately. This is also how they are treated in various economics models that students learn to “maximize”.
 
-# Price Drives Cost  — Not the Other Way Around
+# Price Drives Cost  — Not the Other Way Around.
 
 As we know, however, the real market process is driven by *entrepreneurship* and market actors are not just responsive agents. Entrepreneurs do not live in equilibrium, and they base their business decisions on their own appraisal of the different actions and their imagined outcomes. In this real market, price drives cost  — not the other way around. Indeed, Carl Menger noted that the value of any production good is derived from consumers’ valuation of the consumption goods that it produces, not the other way around. This is also core to for example Mises’s argument about economic calculation.
 
